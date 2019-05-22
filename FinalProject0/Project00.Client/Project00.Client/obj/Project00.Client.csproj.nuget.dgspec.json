@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Client\\Project00.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Client\\Project00.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Client\\Project00.Client.csproj",
+        "projectName": "Project00.Client",
+        "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Client\\Project00.Client.csproj",
+        "packagesPath": "C:\\Users\\Michael Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michael Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\Project00.Domain.csproj": {
+                "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\Project00.Domain.csproj"
+              },
+              "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj": {
+                "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\Project00.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\Project00.Domain.csproj",
+        "projectName": "Project00.Domain",
+        "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\Project00.Domain.csproj",
+        "packagesPath": "C:\\Users\\Michael Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michael Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj": {
+                "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj",
+        "projectName": "Project00Data",
+        "projectPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\Project00Data.csproj",
+        "packagesPath": "C:\\Users\\Michael Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michael Lee\\Desktop\\FinalProject0\\Project00.Client\\Project00Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michael Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

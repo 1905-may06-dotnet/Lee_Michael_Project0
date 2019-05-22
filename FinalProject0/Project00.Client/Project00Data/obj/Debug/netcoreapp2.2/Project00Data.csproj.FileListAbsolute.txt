@@ -1,0 +1,11 @@
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\bin\Debug\netcoreapp2.2\Project00Data.deps.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\bin\Debug\netcoreapp2.2\Project00Data.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.csprojAssemblyReference.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.csproj.CoreCompileInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.AssemblyInfoInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.AssemblyInfo.cs
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\bin\Debug\netcoreapp2.2\Project00Data.runtimeconfig.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\bin\Debug\netcoreapp2.2\Project00Data.runtimeconfig.dev.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\bin\Debug\netcoreapp2.2\Project00Data.pdb
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Data\obj\Debug\netcoreapp2.2\Project00Data.pdb

@@ -1,0 +1,14 @@
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Project00Test.deps.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Project00Test.runtimeconfig.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Project00Test.runtimeconfig.dev.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Project00Test.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\bin\Debug\netcoreapp2.2\Project00Test.pdb
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.csprojAssemblyReference.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.csproj.CoreCompileInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.AssemblyInfoInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.AssemblyInfo.cs
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00Test\obj\Debug\netcoreapp2.2\Project00Test.pdb

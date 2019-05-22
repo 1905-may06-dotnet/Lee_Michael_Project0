@@ -1,0 +1,16 @@
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Client.deps.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Client.runtimeconfig.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Client.runtimeconfig.dev.json
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Client.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Client.pdb
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00Data.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00Data.pdb
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.csprojAssemblyReference.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.csproj.CoreCompileInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.AssemblyInfoInputs.cache
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.AssemblyInfo.cs
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.csproj.CopyComplete
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\obj\Debug\netcoreapp2.2\Project00.Client.pdb
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Domain.dll
+C:\Users\Michael Lee\Desktop\FinalProject0\Project00.Client\Project00.Client\bin\Debug\netcoreapp2.2\Project00.Domain.pdb
